@@ -1,0 +1,82 @@
+.row{
+	margin-bottom: 20px;
+    border-bottom: 2px solid #626262;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+}
+
+.elerhetoseg{
+    width: 300px;
+    height: 210px;
+    background-image: url("XD.jpg");
+    background-size:cover;
+    background-position:center;
+    margin: auto;
+}
+#hatter{
+	background-color:lightgrey;
+}
+.ertekeles{
+    width: 25%;
+    float: left;
+    margin-top: 40px;
+}
+.kosar{
+    width: 15%;
+    float: left;
+    margin-top: 40px;
+}
+.nev{
+    width: 100%;
+    float: left;
+    margin-top: 30px;
+}
+.image
+{
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 10px;
+    background-size: cover;
+    background-position: center;
+}
+#img_holder{
+    width: 60%;
+    margin: auto;	
+}
+body{
+	background-image: url("hatter.jpg");
+	background-size: contain;
+}
+.navbar-nav{
+	margin: auto;
+	font-size: 25px;
+}
+.navbar-brand{
+	font-variant: small-caps;
+	font-size: 30px;
+}
+.div{
+	clear: both;
+	margin-bottom: 20px;
+}
+.kepek{
+	margin-right: 20px;
+	float: left;
+	margin-bottom: 20px;
+}
+.szoveg{
+	float: left;
+}
+.kepek img{
+	width: 353px;
+	height: 253px;
+}
+.button{
+	background-color: hotpink;
+	text-align: center;
+	font-weight: bold;
+}
